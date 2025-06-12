@@ -43,14 +43,14 @@ Acesse http://localhost:5000 para ver a aplicação funcionando.
 
 📂 Estrutura de Arquivos
 /
-|-- node_modules/
-|-- public/
-| |-- style.css # Arquivos de estilo
-|-- views/
-| |-- index.html # Template da página
-|-- app.js # Arquivo principal do servidor
-|-- package.json
-|-- README.md
+|-- node_modules/    
+|-- public/    
+| |-- style.css      # Arquivos de estilo    
+|-- views/  
+| |-- index.html     # Template da página    
+|-- app.js           # Arquivo principal do servidor    
+|-- package.json    
+|-- README.md      
 
 app.js: Contém toda a lógica do servidor, configuração do Express e as rotas da aplicação.
 
