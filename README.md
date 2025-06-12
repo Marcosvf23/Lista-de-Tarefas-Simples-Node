@@ -41,8 +41,8 @@ O arquivo principal do servidor deve se chamar app.js ou similar.
 Abra seu navegador:
 Acesse http://localhost:5000 para ver a aplicação funcionando.
 
-📂 Estrutura de Arquivos
-/
+📂 Estrutura de Arquivos    
+/    
 |-- node_modules/    
 |-- public/    
 | |-- style.css      # Arquivos de estilo    
